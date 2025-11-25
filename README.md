@@ -2,7 +2,7 @@
 ### *VS Code Course Workspace*
 
 Welcome to the Data Analytics & BI course!  
-This folder is designed for working in **Visual Studio Code** using Python, SQL, and Jupyter Notebooks.
+This folder is designed for working in **Visual Studio Code** using Python and SQL.
 
 ---
 
@@ -16,8 +16,11 @@ This folder is designed for working in **Visual Studio Code** using Python, SQL,
 ---
 
 ## 🛠 Tools (Inside VS Code)
-- Python + Jupyter  
+- Excell and Google Spreadsheets 
 - SQLTools  
-- Excel Viewer  
+- Excel
+- Power BI
+- Looker Studio| Google's BI Tools
+- Tableau
 - GitHub integration  
-
+- Python 
